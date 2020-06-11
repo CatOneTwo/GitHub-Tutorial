@@ -9,6 +9,7 @@ GitHub 入门教程，记录自己的学习心得🧡
 3. [GitHub 小白入门（三）Git 的安装及使用](https://github.com/CatOneTwo/GitHub-Tutorial/issues/3)
 4. [GitHub 小白入门（四）本地与远程仓库的交互](https://github.com/CatOneTwo/GitHub-Tutorial/issues/4)
 
-
+## 实用系列
+1. [GitHub+PicGo 搭建自己的图床](https://github.com/CatOneTwo/GitHub-Tutorial/issues/5)
 
 
