@@ -16,3 +16,8 @@ GitHub 入门教程，记录自己的学习心得🧡
 1. [GitHub 图片加载不出来怎么办](https://github.com/CatOneTwo/GitHub-Tutorial/issues/6)
 2. [GitHub 访问加速方法](https://github.com/CatOneTwo/GitHub-Tutorial/issues/7)
 
+---
+拓展阅读：
+
+[GitHub 官方中文文档](https://help.github.com/cn)
+
