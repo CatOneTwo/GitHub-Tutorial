@@ -20,15 +20,12 @@ GitHub 入门教程，记录自己的学习心得🧡
 ---
 拓展阅读：
 
-[GitHub 官方中文文档](https://help.github.com/cn)
-
-[GitHub 使用技巧汇总](https://github.com/tiimgreen/github-cheat-sheet/)
+1. [GitHub 官方中文文档](https://help.github.com/cn)
+2. [GitHub 使用技巧汇总](https://github.com/tiimgreen/github-cheat-sheet/)
 
 ---
 开源项目：
 
-[Awesome](https://github.com/sindresorhus/awesome)
-
-[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-
-[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+1. [Awesome](https://github.com/sindresorhus/awesome)
+2. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+3. [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
