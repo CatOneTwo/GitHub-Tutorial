@@ -21,4 +21,4 @@ GitHub 入门教程，记录自己的学习心得🧡
 拓展阅读：
 
 [GitHub 官方中文文档](https://help.github.com/cn)
-
+[GitHub 使用技巧汇总](https://github.com/tiimgreen/github-cheat-sheet/)
