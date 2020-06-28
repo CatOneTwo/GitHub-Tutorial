@@ -3,8 +3,6 @@ Getting started tutorial on GitHub
 
 GitHub 入门教程，记录自己的学习心得🧡
 
-[aaa](#修复系列)
-
 ## 入门系列
 1. [GitHub 小白入门（一）初识界面](https://github.com/CatOneTwo/GitHub-Tutorial/issues/1)
 2. [GitHub 小白入门（二）仓库操作](https://github.com/CatOneTwo/GitHub-Tutorial/issues/2)
@@ -15,7 +13,7 @@ GitHub 入门教程，记录自己的学习心得🧡
 ## 实用系列
 1. [GitHub+PicGo 搭建自己的图床](https://github.com/CatOneTwo/GitHub-Tutorial/issues/5)
 
-## 修复系列
+## 3.修复系列
 1. [GitHub 图片加载不出来怎么办](https://github.com/CatOneTwo/GitHub-Tutorial/issues/6)
 2. [GitHub 访问加速方法](https://github.com/CatOneTwo/GitHub-Tutorial/issues/7)
 
