@@ -33,8 +33,8 @@ GitHub 入门教程，记录自己的学习心得🧡
 # Contents
 - [Heading One](#heading-one)
 - [Heading Two](#heading-two)
-- [AAA](#aaa)
-- [bbb](#bbb)
+  - [AAA](#aaa)
+  - [bbb](#bbb)
 
 
 # Heading One
