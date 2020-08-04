@@ -13,6 +13,7 @@ GitHub 入门教程，记录自己的学习心得🧡
 ## 实用系列
 1. [GitHub+PicGo 搭建自己的图床](https://github.com/CatOneTwo/GitHub-Tutorial/issues/5)
 2. [ReadMe 好看指南](https://github.com/CatOneTwo/GitHub-Tutorial/issues/9)
+3. [高效使用 GitHub 的两个插件](https://github.com/CatOneTwo/GitHub-Tutorial/issues/10)
 
 ## 修复系列
 1. [GitHub 图片加载不出来怎么办](https://github.com/CatOneTwo/GitHub-Tutorial/issues/6)
